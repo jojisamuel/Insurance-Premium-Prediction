@@ -4,6 +4,10 @@
 
 This project aims to predict insurance premiums based on various factors such as age, sex, BMI, number of children, smoking habits, and region. It utilizes machine learning algorithms to analyze historical data and make predictions on future insurance premiums.
 
+## Web UI
+
+![](proj-demo.gif)
+
 ## Table of Contents
 
 - [Dataset](#dataset)
