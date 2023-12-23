@@ -8,6 +8,10 @@ This project aims to predict insurance premiums based on various factors such as
 
 ![](proj-demo.gif)
 
+## Deployment Link
+
+http://ec2-15-207-100-231.ap-south-1.compute.amazonaws.com:8080/
+
 ## Table of Contents
 
 - [Dataset](#dataset)
@@ -116,4 +120,16 @@ AWS_ECR_LOGIN_URI =
 ECR_REPOSITORY_NAME = 
 
 ```
+
+## Documentation
+
+[High Level Design Document (HLD)](Documentation\High_Level_Design_Document.pdf)
+
+[Low Level Design Document (LLD)](Documentation\Low_Level_Design.pdf)
+
+[Architecture](Documentation\Architecture.pdf)
+
+[WireFrame](Documentation\wireframe.pdf)
+
+[Detailed Project Report (DPR)](Documentation\Insurance_Premium_Prediction_DPR.pptx)
 
