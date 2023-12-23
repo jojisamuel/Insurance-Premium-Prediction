@@ -123,13 +123,13 @@ ECR_REPOSITORY_NAME =
 
 ## Documentation
 
-[High Level Design Document (HLD)](Documentation\High_Level_Design_Document.pdf)
+[High Level Design Document (HLD)](Documentation/High_Level_Design_Document.pdf)
 
-[Low Level Design Document (LLD)](Documentation\Low_Level_Design.pdf)
+[Low Level Design Document (LLD)](Documentation/Low_Level_Design.pdf)
 
-[Architecture](Documentation\Architecture.pdf)
+[Architecture](Documentation/Architecture.pdf)
 
-[WireFrame](Documentation\wireframe.pdf)
+[WireFrame](Documentation/wireframe.pdf)
 
-[Detailed Project Report (DPR)](Documentation\Insurance_Premium_Prediction_DPR.pptx)
+[Detailed Project Report (DPR)](Documentation/Insurance_Premium_Prediction_DPR.pptx)
 
