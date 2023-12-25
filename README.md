@@ -10,7 +10,7 @@ This project aims to predict insurance premiums based on various factors such as
 
 ## Deployment Link
 
-http://ec2-15-207-100-231.ap-south-1.compute.amazonaws.com:8080/
+http://ec2-13-201-104-9.ap-south-1.compute.amazonaws.com:8080/
 
 ## Table of Contents
 
